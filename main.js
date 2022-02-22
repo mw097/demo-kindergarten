@@ -1,1 +1,1 @@
-(()=>{"use strict";var t;(t=window.location.pathname.split(".")[0].split("/")[1])?document.querySelector(`#${t}`).classList.add("activated"):document.querySelector("#about").classList.add("activated")})();
+(()=>{"use strict";var t;(t=window.location.pathname.split(".")[0].split("/")[2])?document.querySelector(`#${t}`).classList.add("activated"):document.querySelector("#about").classList.add("activated")})();
